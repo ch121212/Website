@@ -1,0 +1,42 @@
+body{
+
+background-color: bisque;
+
+
+}
+
+h1{
+
+    text-align: center;
+    color:rgb(240, 176, 92);
+}
+
+.product
+{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+
+
+}
+h4{
+
+    color: rgb(230, 158, 65);
+
+}
+
+.footer
+{
+display: flex;
+
+
+}
+
+.footer1
+{
+display: flex;
+background-color: blanchedalmond;
+justify-content: space-between;
+margin-left: 1000px;
+    
+}
